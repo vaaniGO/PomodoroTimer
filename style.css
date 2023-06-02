@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+  }
+
+  #timer {
+    color: black;
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  #buttons button {
+    font-size: 15px;
+   background-color: pink;
+   border-radius: 2rem;
+   padding: 1rem;
+   margin-bottom: 2rem;
+  }
+
+  #buttons button:hover {
+    background-color: rgba(255, 192, 203, 0.258); 
+  }
+  
